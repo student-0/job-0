@@ -2,6 +2,6 @@
 
 
 1. Write a Processing program
-7. Make a zoog, follow mouse
-1. Commit to github
-5. Send me a pull request
+2. Make a zoog, follow mouse
+3. Commit to github
+4. Send me a pull request
