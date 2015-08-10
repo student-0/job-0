@@ -1,7 +1,11 @@
 # Your first assignment
 
+1. Using the starter code, make the following changes:
+  * Make the creature follow the mouse.
+  * Change the color of the body.
+  * Add a head on top of the body.
+  * Optional:  add two eyes, if you can.  :)
+2. After testing, COMMIT your code to github
+3. Send me a pull request
 
-1. Write a Processing program
-2. Make a zoog, follow mouse
-3. Commit to github
-4. Send me a pull request
+
