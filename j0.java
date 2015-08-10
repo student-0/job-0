@@ -9,6 +9,8 @@ fill(255,0,0);
 rectMode(CENTER);
 rect( 100,100, 30,50 );
 
+//++
+
 
 //  Modify the above code as follows:
 //    * change the color of the body.
