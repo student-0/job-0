@@ -1,7 +1,7 @@
 # Your first assignment
 
 
-* Write a Processing program
-* Make a zoog, follow mouse
-* Commit to github
-* Send me a pull request
+1. Write a Processing program
+7. Make a zoog, follow mouse
+1. Commit to github
+5. Send me a pull request
