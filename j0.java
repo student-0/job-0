@@ -11,6 +11,11 @@ rect( 100,100, 30,50 );
 
 //++
 
+//++++  I added some code here, on Monday.
+
+fill( 0,255,0 );          // Green
+ellipse( 20,20, 30,30 );
+
 
 //  Modify the above code as follows:
 //    * change the color of the body.
